@@ -1,4 +1,4 @@
-# FV Solar Gestão
+# Eletrooliveira Sistema de Gestão
 
 Sistema web em PHP + MySQL para empresa fotovoltaica, com página institucional responsiva, cadastro de clientes, login por perfil, solicitações de orçamento, acompanhamento de status, galeria de projetos e relatórios gerenciais.
 
@@ -37,5 +37,4 @@ Sistema web em PHP + MySQL para empresa fotovoltaica, com página institucional 
 
 ## Observações
 
-- O sistema já atende à maior parte dos requisitos funcionais solicitados como MVP.
-- Para produção, recomendo adicionar: proteção CSRF, paginação, auditoria, recuperação de senha, validações mais rígidas, resize de imagens e logs.
+- O sistema já atende à maior parte dos requisitos funcionais, como, por exemplo o MVP.
